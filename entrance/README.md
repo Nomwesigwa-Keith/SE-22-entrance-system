@@ -1,0 +1,1 @@
+Entrance terminal code
