@@ -1,4 +1,4 @@
-# SE-22 Group Contract
+# SE-22 Group
 
 Copy topic names and message formats EXACTLY. MQTT is case-sensitive, and a typo
 means messages silently never arrive. If anything changes, edit this file and
