@@ -35,7 +35,7 @@ tell the group.
 
 | Person | Name | Folder | Wokwi link |
 |---|---|---|---|
-| 1 | | entrance/ | |
+| 1 | Keith Nomwesigwa| entrance/ | |
 | 2 | | room1/ and room2/ | |
 | 3 | | entrance/ (SD, menu) | |
 | 4 | | entrance/ (network) | |
